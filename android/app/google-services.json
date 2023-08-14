@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649318974502",
+    "project_id": "rateme-c3502",
+    "storage_bucket": "rateme-c3502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649318974502:android:c00798148010b2b54652e7",
+        "android_client_info": {
+          "package_name": "com.example.rate_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649318974502-1fu7ti96tl7lgu01iscsv4q6mfcj11qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOv4-ozljqcl3Wrgmm5U1y78xJw7Ywh5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649318974502-1fu7ti96tl7lgu01iscsv4q6mfcj11qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
